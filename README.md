@@ -54,7 +54,7 @@ I am a mobile developer specializing in creating innovative, user-friendly apps 
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🏆 My Contributions 🏆</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mukwambo/mukwambo/output/github-contribution-grid-snake.svg" />
   
