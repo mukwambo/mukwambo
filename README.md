@@ -12,7 +12,7 @@
 I am a mobile developer specializing in creating innovative, user-friendly apps using Flutter. With a strong background in both web and mobile development, I excel at building seamless cross-platform applications that meet client needs and deliver exceptional user experiences. My ability to stay up-to-date with the latest technologies and trends enables me to provide cutting-edge solutions. I enjoy helping clients bring their ideas to life through custom mobile apps that are both functional and visually engaging.</div>
 <div>
 <br/>
-Feel free to clone or fork any repo. In case of any queries, you are more than welcome to chat via my socials.</div>
+Feel free to clone or fork any repo. In case of any queries, you are more than welcome to chat on my socials.</div>
 <br/>
 <div>
 Happy Coding 😊...
