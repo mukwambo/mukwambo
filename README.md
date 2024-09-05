@@ -31,6 +31,8 @@ Happy Coding 😊...
 ⚡ Fun fact **The first video game was "Pong"**
 
  </div>
+ <br/>
+ <br/>
  
 <div align="center"> 
   <a href="mailto:obrianmukwambo@gmail.com">
@@ -46,6 +48,8 @@ Happy Coding 😊...
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br/>
+<br/>
 
  <hr/>
  
