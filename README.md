@@ -57,7 +57,7 @@ Feel free to clone or fork any repo. In case of any queries, you are more than w
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,kotlin,firebase,html,css,javascript,typescript,python" />
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,linux,ubuntu,pycharm,idea,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,ubuntu,pycharm,idea,vim,figma" /><br>
 </div>
 
 <br/>
