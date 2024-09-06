@@ -15,7 +15,7 @@ I am a mobile developer specializing in creating innovative, user-friendly apps 
 Feel free to clone or fork any repo. In case of any queries, you are more than welcome to chat on my socials.</div>
 <br/>
 <div>
-Happy Coding 😊...
+<i>Happy Coding</i> 😊...
  </div>
 
 <br/>
