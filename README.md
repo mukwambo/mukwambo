@@ -9,10 +9,10 @@
 <br/>
 
 <div align="justify">
-I'm a mobile developer who loves creating fun, easy-to-use apps with Flutter. Whether it’s mobile or web, I’m all about building apps that work smoothly across different platforms. I’m always learning new tech and keeping up with trends so I can offer the best solutions out there. Bringing people’s ideas to life through custom mobile apps that are both useful and great to look at is what I enjoy most!</div>
+I’m all about turning ideas into cool, user-friendly apps with Flutter. The real fun for me is building something from scratch—whether it’s mobile or web—and watching it come to life across different platforms. I work with Flutter and Dart to create smooth, responsive apps, and I’ve got Kotlin, Java, and JavaScript in my toolkit to ensure everything runs like a charm. It’s not just about functionality for me, though. I’m always aiming to make apps that look great and feel amazing to use.</div>
 <div>
 <br/>
-Feel free to clone or fork any repo. In case you have any queries, you are more than welcome to chat on my socials.</div>
+Feel free to clone or fork any repo. If you have any queries, you are welcome to chat on my socials.</div>
 <br/>
 <div>
 <i>Happy Coding</i> 😊...
