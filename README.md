@@ -28,7 +28,7 @@ Feel free to clone or fork any repo. If you have any queries, you are welcome to
  
  🌱 I’m currently learning **Figma**
 
-💬 Ask me about **Android, Flutter, Firebase... or anything [<a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a>]**
+💬 Ask me about **Android, Flutter, Firebase... or anything [ <a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a> ]**
 
 ⚡ Fun fact **The first video game was "Pong"**
 
