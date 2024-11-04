@@ -85,4 +85,7 @@ Here, you'll find a snapshot of my coding journey and the programming languages,
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><br/><br/>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
