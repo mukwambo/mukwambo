@@ -79,13 +79,12 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 Here, you'll find a snapshot of my coding journey and the programming languages, frameworks and tools I actively engage with.</div>
 <br/>
 <br>
+    
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=mukwambo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><br/><br/>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emirkaanozdemr&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img><br>
