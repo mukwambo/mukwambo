@@ -25,7 +25,7 @@ Beyond the tech, I’m passionate about creating solutions that make a real impa
   
  🔧 I’m currently working on **a therapy app**
  
- 📚 I’m currently learning **Figma**
+ 📚 On the side, I'm learning **Figma**
 
  💬 Ask me about **Android, Flutter, Firebase... or anything [ <a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a> ]**
 
