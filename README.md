@@ -61,6 +61,10 @@ Most of my repositories are private but feel free to clone or fork any public on
  
 <h2 align="justify"> Languages, Frameworks & Tools </h2>
 <br/>
+<div>
+Check out <b>some</b> of the technologies that fuel my creativity and drive my projects!</div>
+<br/>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,kotlin,firebase,html,css,javascript,typescript,python"/>
     <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,ubuntu,pycharm,idea,vim,figma"/>
@@ -70,6 +74,10 @@ Most of my repositories are private but feel free to clone or fork any public on
 <br/><br/>
 
 <h2 align="justify"> Performance Metrics Overview </h2>
+<br/>
+<div>
+Here, you'll find a snapshot of my coding journey and the programming languages, frameworks and tools I actively engage with.</div>
+<br/>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=mukwambo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
