@@ -36,7 +36,7 @@ Beyond the tech, I’m passionate about creating solutions that make a real impa
  <br/>
 
  <div>
-Most of my repositories are private but feel free to clone or fork any public ones. If you have any queries, you are welcome to chat on my socials.</div>
+Most of my repositories are private but feel free to clone or fork any public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
 <br/>
  
 <div align="center">
