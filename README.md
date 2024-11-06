@@ -43,10 +43,10 @@ Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b>
   <a href="mailto:obrianmukwambo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/brian-mukwambo-80b685268/" target="_blank">
+  <a href="https://linkedin.com/in/brian-mukwambo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_mukwambo_/">
+  <a href="https://instagram.com/justbrya.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="#">
