@@ -55,7 +55,7 @@ Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b>
 </div>
 <br/><br/>
 <div>
-<i>Happy Coding, Mate</i> 😊...
+<i>Happy Coding, Mate!</i> 😊...
  </div>
 <br/><br/>
  
