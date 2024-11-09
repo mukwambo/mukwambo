@@ -79,7 +79,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 Here, you'll find a snapshot of the programming languages, frameworks, and tools I actively engage with.</div>
 <br/>
 <br>
-    
+
 <div align=center>
       
 <img height=160 src="https://streak-stats.demolab.com?user=mukwambo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
