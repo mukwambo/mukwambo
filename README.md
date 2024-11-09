@@ -80,8 +80,14 @@ Here, you'll find a snapshot of my programming activity and performance metrics.
 <br/>
 <br>
 
-[![Brian's GitHub Streak](https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true)](https://git.io/streak-stats)
-[![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
+  </a>
+</div>
 
 <br/><br/>
 <div>
