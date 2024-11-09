@@ -78,7 +78,6 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <div>
 Here, you'll find a snapshot of my programming activity and performance metrics.</div>
 <br/>
-<br>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -87,8 +86,7 @@ Here, you'll find a snapshot of my programming activity and performance metrics.
   <a href="https://git.io/streak-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
   </a>
-</div>
-
+    
 <br/><br/>
 <div>
 An overview of my coding activity and contributions across repositories reflecting project engagement.</div>
