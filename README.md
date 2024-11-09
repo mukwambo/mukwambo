@@ -82,10 +82,10 @@ Here, you'll find a snapshot of my programming activity and performance metrics.
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img height=155 src="https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
+    <img height=170 src="https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height=155 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
+    <img height=170 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
   </a>
 </div>
 
