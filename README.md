@@ -76,15 +76,15 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <h2 align="justify"> Performance Metrics Overview </h2>
 <br/>
 <div>
-Here, you'll find a snapshot of the programming languages, frameworks and tools I actively engage with.</div>
+Here, you'll find a snapshot of the programming languages, frameworks, and tools I actively engage with.</div>
 <br/>
 <br>
     
 <div align=center>
       
-<img width=390 src="https://streak-stats.demolab.com?user=mukwambo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img height=160 src="https://streak-stats.demolab.com?user=mukwambo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><br/><br/>
 <div>
 An overview of my coding activity and contributions across repositories.</div>
