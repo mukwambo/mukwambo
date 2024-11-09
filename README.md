@@ -82,13 +82,13 @@ Here, you'll find a snapshot of the programming languages, frameworks and tools 
     
 <div align=center>
       
-<img width=390 src="https://streak-stats.demolab.com/?user=mukwambo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width=390 src="https://streak-stats.demolab.com?user=mukwambo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div><br/><br/>
 <div>
 An overview of my coding activity and contributions across repositories.</div>
 <br/>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukwambo&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukwambo&theme=tokyonight&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img><br>
