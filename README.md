@@ -88,7 +88,7 @@ Here, you'll find a snapshot of my programming activity and performance metrics.
   </a>
     
 <br/><br/>
-<div>
+<div align=justify>
 An overview of my coding activity and contributions across repositories reflecting project engagement.</div>
 <br/>
 <br>
