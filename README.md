@@ -78,15 +78,25 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <div>
 Here, you'll find a snapshot of the programming languages, frameworks, and tools I actively engage with.</div>
 <br/>
-<br>
+<be>
 
 <div align=center>
-      
-<img height=160 src="https://streak-stats.demolab.com?user=mukwambo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  <img height=160 src="https://github-readme-stats.vercel.app/api/?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800&v=1" alt="readme stats" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <a href="#">
+      <img height=160 src="https://streak-stats.demolab.com?user=mukwambo&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  </a>
+  <a href="#">
+      <img height=160 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800&v=1" alt="readme stats" />
+  </a>
+  <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </a>
+</div>
+ 
+  
 
-</div><br/><br/>
+  
+  
+
+<br/><br/>
 <div>
 An overview of my coding activity and contributions across repositories.</div>
 <br/>
