@@ -76,20 +76,24 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <h2 align="justify"> Performance Metrics Overview </h2>
 <br/>
 <div>
-Here, you'll find a snapshot of my programming activity and performance metrics.</div>
+A snapshot of my programming activity and performance metrics.</div>
 <br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img height=170 src="https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height=170 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
-  </a>
-    
+
+<img height=170 src="https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
+
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
+
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&layout=compact&card_width=500&count_private=true&langs_count=8&hide=html,css&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
+
+  
+</div>
+
+
 <br/><br/>
 <div align=justify>
-An overview of my coding activity and contributions across repositories reflecting project engagement.</div>
+An overview of my coding activity and contributions across repositories.</div>
 <br/>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukwambo&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repos"></img><br>
