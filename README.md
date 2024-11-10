@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Brian+Mukwambo!;+You+Finally+Found+Me+👏;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=61DAFB&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Brian+Mukwambo!;+You+Finally+Found+Me+👏;" />
 </h1>
 
 <h3 align="center">A passionate mobile app developer</h3>
@@ -81,11 +81,11 @@ A snapshot of my programming activity and performance metrics.</div>
 
 <div align="center">
 
-<img height=170 src="https://streak-stats.demolab.com/?user=mukwambo&theme=tokyonight&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
+<img height=170 src="https://streak-stats.demolab.com/?user=mukwambo&theme=react&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
 
-<img height=170 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=react&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
 
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&layout=compact&card_width=500&count_private=true&langs_count=8&hide=html,css&show_icons=true&theme=tokyonight&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&layout=compact&card_width=500&count_private=true&langs_count=8&hide=html,css&show_icons=true&theme=react&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
 
   
 </div>
@@ -96,4 +96,4 @@ A snapshot of my programming activity and performance metrics.</div>
 An overview of my coding activity and contributions across repositories.</div>
 <br/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukwambo&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repos"></img><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukwambo&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repos"></img><br>
