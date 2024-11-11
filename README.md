@@ -1,5 +1,6 @@
 <div align="right">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mukwambo.mukwambo" />
+    
+   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mukwambo.mukwambo&left_text=Page%20Visitors)
 </div>
 
 <h1 align="center">
