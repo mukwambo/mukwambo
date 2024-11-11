@@ -24,7 +24,7 @@ Beyond the tech, I’m passionate about creating solutions that make a real impa
 
 <div align="justify">
   
- 🔧 I’m currently working on **an e-commerce app**
+ 🔧 I’m currently working on **an E-Commerce App**
  
  📚 On the side, I'm learning **Figma**
 
