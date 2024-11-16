@@ -94,7 +94,7 @@ A snapshot of my programming activity and performance metrics.</div>
 
 <br/><br/>
 <div align=justify>
-An overview of my coding activity and contributions across repositories.</div>
+Below is an overview of my coding activity and contributions across repositories.</div>
 <br/>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukwambo&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repos"></img><br>
