@@ -63,7 +63,7 @@ Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b>
 <h2 align="justify"> Languages, Frameworks & Tools </h2>
 <br/>
 <div>
-Check out <b>some</b> of the technologies that fuel my creativity and drive my projects!</div>
+Check out <b>some</b> of the technologies that fuel my creativity and drive my projects.</div>
 <br/>
 <br/>
 <div align="center">
