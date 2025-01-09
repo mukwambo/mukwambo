@@ -15,7 +15,7 @@
 I’m all about turning ideas into cool, user-friendly apps with Flutter. The real fun for me is building something from scratch—whether mobile or web—and watching it come to life across different platforms. I work with Flutter and Dart to create smooth, responsive apps, and I’ve got Kotlin, Java, and JavaScript in my toolkit to ensure everything runs like a charm. It’s not just about functionality for me, though. I’m always aiming to make apps that look great and feel amazing to use.</div>
 <br/>
 <div align="justify">
-Beyond the tech, I’m passionate about creating solutions that make a real impact. Whether it’s simplifying access to education, enhancing health resources, or promoting sustainability, I believe in the power of tech to drive positive change. With every project, I’m focused on building apps that aren’t just useful, but that contribute to a better, more connected world.</div>
+Beyond tech, I’m passionate about creating solutions that make a real impact. Whether it’s simplifying access to education, enhancing health resources, or promoting sustainability, I believe in the power of tech to drive positive change. With every project, I’m focused on building apps that aren’t just useful, but that contribute to a better, more connected world.</div>
 <br/>
 
 
