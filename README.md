@@ -77,7 +77,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <h2 align="justify"> Performance Metrics Overview </h2>
 <br/>
 <div>
-A snapshot of my programming activity and performance metrics.</div>
+Here's a snapshot of my programming activity and performance metrics.</div>
 <br/>
 
 <div align="center">
