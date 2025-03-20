@@ -28,7 +28,7 @@ Beyond tech, I’m passionate about creating solutions that make a real impact. 
  
  📚 On the side, I'm learning **Blockchain**
 
- 💬 Ask me about **Android, Flutter, Firebase... or anything [ <a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a> ]**
+ 💬 Ask me about **Blockchain, Flutter, Android... or anything [ <a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a> ]**
 
  🤓 Fun fact **The first video game was "Pong"**
 
