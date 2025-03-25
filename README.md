@@ -37,7 +37,7 @@ Beyond tech, I’m passionate about creating solutions that make a real impact. 
  <br/>
 
  <div>
-Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b> any public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
+Most of my repositories are private, but feel free to <b>clone</b> or <b>fork</b> any public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
 <br/>
  
 <div align="center">
@@ -53,6 +53,10 @@ Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b>
   <a href="#">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
+  <a href="https://x.com/brianmukwambo">
+    <img src="https://img.shields.io/badge/X(Twitter)-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    
 </div>
 <br/><br/>
 <div>
