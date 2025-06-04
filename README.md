@@ -24,7 +24,7 @@ Beyond tech, I’m passionate about creating solutions that make a real impact. 
 
 <div align="justify">
   
- 🔧 I’m currently working on a **Savings App**
+ 🔧 I’m currently working on an **E-Commerce App**
  
  📚 On the side, I'm learning **Solidity**
 
