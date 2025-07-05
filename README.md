@@ -92,8 +92,6 @@ Here's a snapshot of my programming activity and performance metrics.</div>
 <img height=170 src="https://streak-stats.demolab.com/?user=mukwambo&theme=react&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_color=FFFFFF&radius=10&cache_seconds=1800" alt="Brian's GitHub Stats" />
-</div>
-<div align="center">
 <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&layout=compact&card_width=500&count_private=true&langs_count=8&hide=html,css&show_icons=true&theme=react&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" />
   
 </div>
