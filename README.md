@@ -18,7 +18,7 @@ I’m all about turning ideas into cool, user-friendly systems, whether mobile, 
 It’s not just about functionality for me, though. I’m always aiming to create solutions that look great and feel amazing to use.</div>
 <br/>
 <div align="justify">
-I’m driven by the belief that tech should solve real problems. Whether it’s making education more accessible, improving healthcare systems, or bringing transparency to supply chains, that's why I build with the sole purpose of <b>"crafting digital solutions that make a difference in people’s lives"</b> in mind.</div>
+I’m driven by the belief that tech should solve real problems. Whether it’s making education more accessible, improving healthcare systems, or bringing transparency to supply chains, that's why I build with the sole purpose of <b>" crafting digital solutions that make a difference in people’s lives "</b> in mind.</div>
 <br/>
 
 
@@ -40,7 +40,7 @@ I’m driven by the belief that tech should solve real problems. Whether it’s 
  <br/>
 
  <div>
-Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b> any of the public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
+Most of my repositories are private, but feel free to <b>clone</b> or <b>fork</b> any of the public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
 <br/>
  
 <div align="center">
