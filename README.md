@@ -12,10 +12,13 @@
 <br/>
 
 <div align="justify">
-I’m all about turning ideas into cool, user-friendly apps with Flutter. The real fun for me is building something from scratch—whether mobile or web—and watching it come to life across different platforms. I work with Flutter and Dart to create smooth, responsive apps, and I’ve got Kotlin, Java, and JavaScript in my toolkit to ensure everything runs like a charm. It’s not just about functionality for me, though. I’m always aiming to make apps that look great and feel amazing to use.</div>
+I’m all about turning ideas into cool, user-friendly systems, whether mobile, web, or blockchain-based. I mostly use Flutter and Dart to craft smooth, responsive experiences, and also develop smart contracts using Solidity to bring decentralized functionality into the mix.</div>
 <br/>
 <div align="justify">
-Beyond tech, I’m passionate about creating solutions that make a real impact. Whether it’s simplifying access to education, enhancing health resources, or promoting sustainability, I believe in the power of tech to drive positive change. With every project, I’m focused on building apps that aren’t just useful, but that contribute to a better, more connected world.</div>
+It’s not just about functionality for me, though. I’m always aiming to create solutions that look great and feel amazing to use.</div>
+<br/>
+<div align="justify">
+I’m driven by the belief that tech should solve real problems. Whether it’s making education more accessible, improving healthcare systems, or bringing transparency to supply chains, that's why I build with the sole purpose of <b>"crafting digital solutions that make a difference in people’s lives"</b> in mind.</div>
 <br/>
 
 
@@ -37,7 +40,7 @@ Beyond tech, I’m passionate about creating solutions that make a real impact. 
  <br/>
 
  <div>
-Most of my repositories are private, but feel free to <b>clone</b> or <b>fork</b> any public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
+Most of my repositories are private but feel free to <b>clone</b> or <b>fork</b> any of the public ones. It would also mean the world to me if you sent me recommendations on what I could do better on either of the projects. In case of any queries, you are welcome to chat on any of my socials tagged below: </div>
 <br/>
  
 <div align="center">
@@ -71,8 +74,8 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,kotlin,firebase,html,css,javascript,typescript,python"/>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,ubuntu,pycharm,idea,vim,figma"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,kotlin,firebase,supabase,javascript,typescript,python,django,solidity"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,linux,ubuntu,pycharm,idea,vim,remix,figma"/>
     <br>
 </div>
 
