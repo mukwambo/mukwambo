@@ -75,7 +75,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,java,kotlin,firebase,supabase,javascript,typescript,python,django,solidity,remix"/>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,linux,ubuntu,pycharm,idea,vim,figma, react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,linux,ubuntu,pycharm,idea,vim,figma,react"/>
     <br>
 </div>
 
