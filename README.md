@@ -7,12 +7,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=61DAFB&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Brian+Mukwambo!;+Wanna+Collab?;" />
 </h1>
 
-<h3 align="center">A passionate mobile app developer</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 <br/>
 
 <div align="justify">
-I’m all about turning ideas into cool, user-friendly systems, whether mobile, web, or blockchain-based. I mostly use Flutter and Dart to craft smooth, responsive experiences, and also develop smart contracts using Solidity to bring decentralized functionality into the mix.</div>
+I’m all about turning ideas into cool, user-friendly systems, whether mobile, web, or blockchain-based. I mostly use Flutter and Dart to craft smooth, responsive experiences, and also develop smart contracts using Solidity to bring decentralized functionality into the mix. Btw, also know my way around React Native pretty well, so in case you wanna collaborate on that too, I'm down!</div>
 <br/>
 <div align="justify">
 It’s not just about functionality for me, though. I’m always aiming to create solutions that look great and feel amazing to use.</div>
