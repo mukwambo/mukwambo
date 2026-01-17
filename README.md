@@ -27,11 +27,11 @@ I’m driven by the belief that tech should solve real problems. Whether it’s 
 
 <div align="justify">
   
- 🔧 I’m currently working on an **E-Commerce App**
+ 🔧 I’m currently working on a **Smart Wallet**
  
- 📚 On the side, I'm learning **Solidity**
+ 📚 On the side, I'm learning **Foundry**
 
- 💬 Ask me about **Blockchain, Flutter, Android... or anything [ <a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a> ]**
+ 💬 Ask me about **Blockchain, Flutter, React Native, Android... or anything [ <a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a> ]**
 
  🤓 Fun fact **The first video game was "Pong"**
 
