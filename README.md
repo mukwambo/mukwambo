@@ -14,15 +14,7 @@
 
 <div align="justify">
 
-I'm a Full-Stack App Engineer who builds high-performance, scalable cross-platform mobile experiences, with a particular focus on fintech. I work mainly in React Native, going deep on low-level mobile optimizations and system architecture so that financial apps stay fast, secure, and dependable in the moments that matter most. I'm also comfortable in Flutter and Dart, so if that's your stack, I'm happy to collaborate there too.
-
-</div>
-
-<br/>
-
-<div align="justify">
-
-In fintech especially, the details are the product. I care as much about how an app performs under real-world pressure and how safe it feels to use as I do about the architecture running underneath it, reliability and security aren't an afterthought, they're the baseline.
+I'm a Full-Stack App Developer building high-performance, scalable cross-platform mobile experiences, with a particular focus on fintech. I work mainly in React Native, going deep on low-level mobile optimizations and system architecture so that financial apps stay fast, secure, and dependable in the moments that matter most. I'm also comfortable in Flutter and Dart, so if that's your stack, I'm happy to collaborate there too.
 
 </div>
 
