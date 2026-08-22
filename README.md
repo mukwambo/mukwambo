@@ -75,7 +75,7 @@ Most of my repositories are private, but feel free to <b>clone</b> or <b>fork</b
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="#">
+  <a href="https://brian-portfolio-indol.vercel.app/#about">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 
