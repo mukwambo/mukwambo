@@ -121,7 +121,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
     </td>
     <td align="center" width="33%">
       <b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,react" />
     </td>
   </tr>
   <tr>
