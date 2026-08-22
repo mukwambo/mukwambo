@@ -117,7 +117,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
     </td>
     <td align="center" width="33%">
       <b>Mobile Development</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,swift" />
     </td>
     <td align="center" width="33%">
       <b>Frontend</b><br/><br/>
@@ -127,7 +127,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
   <tr>
     <td align="center">
       <b>Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,bash" />
     </td>
     <td align="center">
       <b>Databases</b><br/><br/>
@@ -149,7 +149,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
     </td>
     <td align="center">
       <b>Development Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm,idea,vim" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,webstorm,vim,sentry" />
     </td>
   </tr>
   <tr>
