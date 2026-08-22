@@ -127,7 +127,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
     </td>
     <td align="center">
       <b>Cloud & Backend Services</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+      <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite" />
     </td>
   </tr>
   <tr>
