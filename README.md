@@ -119,7 +119,7 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
   <tr>
     <td align="center">
       <b>Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,bash" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postman,bash" />
     </td>
     <td align="center">
       <b>Databases</b><br/><br/>
