@@ -122,8 +122,8 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
       <img src="https://skillicons.dev/icons?i=nodejs,express,postman,bash" />
     </td>
     <td align="center">
-      <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+      <b>Databases & Caching</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
     </td>
     <td align="center">
       <b>Cloud & Backend Services</b><br/><br/>
