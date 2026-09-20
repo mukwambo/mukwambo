@@ -24,13 +24,11 @@ I'm a Full-Stack App Developer building high-performance, scalable cross-platfor
 
 <div align="justify">
 
-🔧 I'm currently working on a **Smart Wallet**
+‣  I'm currently working on a **Smart Wallet**
 
-📚 On the side, I'm learning **Foundry**
+‣  On the side, I'm learning **Foundry**
 
-💬 Ask me about **Fintech mobile engineering, performance tuning, blockchain... or anything [<a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a>]**
-
-🤓 Fun fact **The first video game was "Pong"**
+‣  Ask me about **Fintech mobile engineering, performance tuning, blockchain... or anything [<a href="https://github.com/mukwambo/mukwambo/issues/new"><b>here</b></a>]**
 
 </div>
 
