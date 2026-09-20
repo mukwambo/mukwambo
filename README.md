@@ -20,14 +20,6 @@ I'm a Full-Stack App Developer building high-performance, scalable cross-platfor
 
 <br/>
 
-<div align="justify">
-
-Beyond core mobile engineering, I like staying close to where things are heading next like modern cross-platform ecosystems, mobile performance tuning, and increasingly, agentic payment systems. I'm driven by the belief that technology should earn people's trust before it earns their time, especially when it's handling their money, and that's the standard I build to: <b>"crafting secure, reliable digital experiences people can actually depend on."</b>
-
-</div>
-
-<br/>
-
 <br/>
 
 <div align="justify">
@@ -156,30 +148,30 @@ Check out <b>some</b> of the technologies that fuel my creativity and drive my p
 
 <br/>
 
-<h2 align="justify">Performance Metrics Overview</h2>
+<!-- <h2 align="justify">Performance Metrics Overview</h2>
 
-<br/>
+<br/> -->
 
-<div>
+<!-- <div> -->
 
-Here's a snapshot of my programming activity and performance metrics.
+<!--Here's a snapshot of my programming activity and performance metrics.-->
 
-</div>
+<!-- </div> -->
 
-<br/>
+<!-- <br/> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<img height="340" src="https://streak-stats.demolab.com/?user=mukwambo&theme=react&border&radius=10&count_private=true" alt="Brian's GitHub Streak" />
+<!-- <img height="340" src="https://streak-stats.demolab.com/?user=mukwambo&theme=react&border&radius=10&count_private=true" alt="Brian's GitHub Streak" /> -->
 
 <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=mukwambo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_color=FFFFFF&radius=10&cache_seconds=1800" alt="Brian's GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukwambo&layout=compact&card_width=500&count_private=true&langs_count=8&hide=html,css&show_icons=true&theme=react&rank_icon=github&border&radius=10&cache_seconds=1800&v=1" alt="Brian's GitHub Stats" /> -->
 
-</div>
+<!-- </div>
 
 <br/>
-<br/>
+<br/> -->
 
 <!-- <div align="justify">
 
